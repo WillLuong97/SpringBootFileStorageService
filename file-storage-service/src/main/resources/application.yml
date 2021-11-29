@@ -12,6 +12,8 @@ application:
   bucket:
     name:
 
+directory:
+  path:
 
 spring:
   servlet:
